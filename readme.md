@@ -71,3 +71,6 @@ Untuk menjalankan proyek ini, Anda perlu menambahkan variabel berikut ke file .e
 
 ## Ai Support Explanation
 Dalam proyek ini, IBM Granite memainkan peran yang sangat penting dalam mendukung proses pengembangan. IBM Granite, sebagai platform yang kaya akan fitur dan kemudahan penggunaan, sangat membantu dalam berbagai aspek pengembangan aplikasi. Salah satu fitur utama yang dimanfaatkan adalah Code Generator, yang memungkinkan tim pengembang untuk dengan cepat menghasilkan kode-kode yang dibutuhkan tanpa harus menulisnya secara manual. Fitur ini tidak hanya menghemat waktu tetapi juga meningkatkan konsistensi kode di seluruh proyek, mengurangi kemungkinan kesalahan manusia, dan mempercepat fase pengembangan.
+
+## Aplikasi Ini Masih dalam tahap pengembangan
+beberapa fitur belum tersedia 
